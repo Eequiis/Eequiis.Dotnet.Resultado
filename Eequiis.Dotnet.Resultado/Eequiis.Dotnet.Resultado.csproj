@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Eequiis Vásquez</Authors>
+    <Company>Eequiis Software</Company>
+    <Description>Permite devolver un valor, resultado o mensaje, asociados al éxito o fracaso de una operación.</Description>
+    <Copyright>Eequiis Software 2020</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/Eequiis/Eequiis.Dotnet.Resultado</RepositoryUrl>
+    <RepositoryType>Git Público</RepositoryType>
+    <PackageTags>C#</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
