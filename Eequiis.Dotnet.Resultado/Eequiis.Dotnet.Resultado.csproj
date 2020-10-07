@@ -4,12 +4,14 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Eequiis Vásquez</Authors>
     <Company>Eequiis Software</Company>
-    <Description>Permite devolver un valor, resultado o mensaje, asociados al éxito o fracaso de una operación.</Description>
-    <Copyright>Eequiis Software 2020</Copyright>
+    <Description>Permite devolver un resultado, con valor o mensaje asociados al éxito o fracaso de una operación.</Description>
+    <Copyright>2020 Eequiis Software</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <RepositoryUrl>https://github.com/Eequiis/Eequiis.Dotnet.Resultado</RepositoryUrl>
-    <RepositoryType>Git Público</RepositoryType>
+    <RepositoryUrl></RepositoryUrl>
+    <RepositoryType></RepositoryType>
     <PackageTags>C#</PackageTags>
+    <Version>1.0.1</Version>
+    <PackageProjectUrl>https://github.com/Eequiis/Eequiis.Dotnet.Resultado</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
