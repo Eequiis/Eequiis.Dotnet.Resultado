@@ -14,6 +14,14 @@
     <PackageProjectUrl>https://github.com/Eequiis/Eequiis.Dotnet.Resultado</PackageProjectUrl>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>Eequiis.Dotnet.Resultado.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>Eequiis.Dotnet.Resultado.xml</DocumentationFile>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Include="../LICENSE">
       <Pack>True</Pack>
