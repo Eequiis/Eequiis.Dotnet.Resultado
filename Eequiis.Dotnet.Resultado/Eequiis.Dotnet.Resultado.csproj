@@ -5,8 +5,8 @@
     <Authors>Eequiis Vásquez</Authors>
     <Company>Eequiis Software</Company>
     <Description>Permite devolver un resultado, con valor o mensaje asociados al éxito o fracaso de una operación.</Description>
-    <Copyright>2020 2021 Eequiis Vásquez</Copyright>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Copyright>2020, 2021 Eequiis Vásquez</Copyright>
+    <PackageLicenseFile>COPYING.LESSER</PackageLicenseFile>
     <RepositoryUrl></RepositoryUrl>
     <RepositoryType></RepositoryType>
     <PackageTags>C#</PackageTags>
@@ -23,7 +23,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="../LICENSE">
+    <None Include="../COPYING">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\COPYING.LESSER">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
