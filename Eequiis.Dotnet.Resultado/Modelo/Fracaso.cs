@@ -1,4 +1,26 @@
-﻿namespace Eequiis.Dotnet.Resultado
+﻿/*******************************************************************************
+ *
+ * Copyright (C) 2020, 2021 Eequiis Vásquez
+ *
+ * This file is part of Eequiis.Dotnet.Resultado.
+ *
+ * Eequiis.Dotnet.Resultado is free software: you can redistribute it and/or
+ * modify it under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation, either version 3 of the License,
+ * or (at your option) any later version.
+ *
+ * Eequiis.Dotnet.Resultado is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser
+ * General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with Eequiis.Dotnet.Resultado. If not, see
+ * <https://www.gnu.org/licenses/>.
+ *
+ ******************************************************************************/
+
+namespace Eequiis.Dotnet.Resultado
 {
 	internal static class NSGlobal
 	{
